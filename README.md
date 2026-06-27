@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00B37D&center=true&vCenter=true&multiline=false&random=true&width=600&height=50&lines=Building+end-to-end+ML+pipelines+%F0%9F%A4%96;Deploying+models+via+FastAPI+%F0%9F%9A%80;Writing+tests+that+actually+catch+bugs+%F0%9F%90%9B;Turning+messy+data+into+clean+insights+%F0%9F%93%8A;Currently+learning+NLP+%26+AI+APIs+%E2%9C%A8;CS+Student+%40+Karachi+%F0%9F%87%B5%F0%9F%87%B0+%7C+2023%E2%80%932027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00B37D&center=true&vCenter=true&multiline=false&random=true&width=650&height=50&lines=AI+Resume+Analyzer+%2B+Salary+Predictor+%F0%9F%A4%96;Building+end-to-end+ML+pipelines+%F0%9F%94%A5;Deploying+models+via+FastAPI+%26+Flask+%F0%9F%9A%80;Grok+API+%7C+PostgreSQL+%7C+Random+Forest;Writing+tests+that+actually+catch+bugs+%F0%9F%90%9B;Turning+messy+data+into+clean+insights+%F0%9F%93%8A;CS+Student+%40+Karachi+%F0%9F%87%B5%F0%9F%87%B0+%7C+2023%E2%80%932027" alt="Typing SVG" />
 
 </div>
 
@@ -29,20 +29,24 @@ class AimanNisar:
     working_at  = "Target Digital Media LLC — Social Media Marketing Manager"
 
     skills = {
-        "Data & ML"  : ["Python", "Pandas", "NumPy", "Scikit-learn", "EDA", "ML Algorithms"],
-        "Databases"  : ["MySQL", "PostgreSQL", "MongoDB", "MS SQL Server"],
-        "Backend"    : ["FastAPI", "Flask", "Node.js", "REST APIs"],
-        "Frontend"   : ["HTML", "CSS", "Tailwind CSS", "JavaScript"],
-        "QA"         : ["Selenium", "Pytest", "Manual Testing", "API Testing", "Jira"],
-        "BI"         : ["Power BI", "MS Excel (Advanced)"],
-        "Languages"  : ["Python", "SQL", "R", "Java", "JavaScript"],
+        "Data & ML"   : ["Python", "Pandas", "NumPy", "Scikit-learn", "Random Forest",
+                         "K-Means", "KNN", "EDA", "Statistics & Probability"],
+        "AI & APIs"   : ["Grok API", "OpenAI API", "REST API Development"],
+        "Databases"   : ["PostgreSQL", "MySQL", "MongoDB", "MS SQL Server", "Neon"],
+        "Backend"     : ["FastAPI", "Flask", "Node.js"],
+        "Frontend"    : ["HTML", "CSS", "Tailwind CSS", "JavaScript"],
+        "QA & Testing": ["Selenium", "Pytest", "Manual Testing", "API Testing",
+                         "Edge Case Analysis", "Jira"],
+        "BI & Tools"  : ["Power BI", "MS Excel Advanced", "Git & GitHub", "Jupyter"],
+        "Languages"   : ["Python", "SQL", "R", "Java", "JavaScript"],
     }
 
-    currently_learning = ["NLP", "OpenAI / Grok API", "Test Automation (CI/CD)"]
+    currently_learning = ["NLP (NLTK, SpaCy)", "OpenAI / Grok API deep dive",
+                          "Pytest + GitHub Actions CI/CD"]
     open_to            = ["Data Science", "Data Analyst", "QA Engineer", "Backend Dev"]
 
     def motto(self):
-        return "Ship working code. Understand the data. Test everything. 🚀"
+        return "Build it. Test it. Deploy it. 🚀"
 ```
 
 ---
@@ -60,8 +64,10 @@ class AimanNisar:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Backend & APIs**
+**AI & Backend**
 
+![Grok API](https://img.shields.io/badge/Grok_API-000000?style=flat-square&logo=xai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -99,54 +105,54 @@ class AimanNisar:
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [ML + FastAPI — Wholesale Segmentation](https://github.com/AimCodes-beep/ML-FASTAPI)
-K-Means clustering on 440 wholesale customers → live prediction API with HTML form interface and background task logging.
+### 🤖 [AI Resume Analyzer + Salary Predictor](https://github.com/AimCodes-beep)
+Full-stack AI web app: Grok API analyzes resumes → Random Forest predicts salary → 3-page HTML/CSS frontend → data stored in PostgreSQL. REST API endpoints included.
 
-`Python` `Scikit-learn` `FastAPI` `Joblib` `MongoDB`
+`Flask` `Grok API` `Random Forest` `PostgreSQL` `HTML/CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Customer Churn Prediction API](https://github.com/AimCodes-beep/ML_PROJECTS)
-KNN classifier predicting customer churn from 9 behavioural features — deployed as a REST API with Pydantic validation.
+### 🔗 [Wholesale Customer Segmentation + FastAPI](https://github.com/AimCodes-beep/ML-FASTAPI)
+K-Means clustering on 440 wholesale customers → live prediction API with HTML form interface and background task logging deployed on Render.
 
-`Python` `Scikit-learn` `FastAPI` `Pandas` `Joblib`
+`FastAPI` `Scikit-learn` `K-Means` `Joblib` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [FastAPI Projects Collection](https://github.com/AimCodes-beep/Fastapi_Code)
-Production-style APIs: CRUD, file uploads, cookies, header auth, background tasks, dependency injection, HTML forms.
+### 📉 [Customer Churn Prediction API](https://github.com/AimCodes-beep/ML_PROJECTS)
+KNN classifier predicting customer churn from 9 behavioural features — deployed as a validated REST API with Pydantic schemas.
 
-`Python` `FastAPI` `Uvicorn` `Pydantic`
+`FastAPI` `KNN` `Scikit-learn` `Pandas` `Joblib`
 
 </td>
 <td width="50%" valign="top">
 
+### ⚡ [FastAPI Projects Collection](https://github.com/AimCodes-beep/Fastapi_Code)
+Production-style APIs: inventory management, task manager, file uploads, cookies, header auth, background tasks, dependency injection.
+
+`FastAPI` `Uvicorn` `Pydantic` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🗄️ [Database Projects](https://github.com/AimCodes-beep/Databases)
-SQL & NoSQL projects — schema design, complex queries, joins, CTEs, and data manipulation.
+SQL & NoSQL projects — schema design, complex queries, joins, CTEs, window functions and data manipulation.
 
 `MySQL` `PostgreSQL` `MongoDB` `MS SQL Server`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 📊 [Data Analytics](https://github.com/AimCodes-beep/Data_Analytics)
-EDA projects uncovering patterns and business insights from real-world datasets.
+### 📊 [Data Analytics & Visualization](https://github.com/AimCodes-beep/Data_Analytics)
+EDA projects uncovering patterns and business insights, plus visual storytelling with interactive charts and Power BI dashboards.
 
-`Python` `Pandas` `Matplotlib` `Seaborn`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [Data Visualization](https://github.com/AimCodes-beep/Data_Visualization)
-Visual storytelling with data using interactive charts and Power BI dashboards.
-
-`Seaborn` `Matplotlib` `Power BI` `Python`
+`Pandas` `Matplotlib` `Seaborn` `Power BI`
 
 </td>
 </tr>
@@ -184,10 +190,10 @@ Visual storytelling with data using interactive charts and Power BI dashboards.
 ## 🌱 Currently
 
 ```
-📚 Learning  →  NLP  •  OpenAI / Grok API  •  Pytest  •  GitHub Actions CI/CD
-🔨 Building  →  AI Data Analyst App (FastAPI + OpenAI + Neon PostgreSQL)
-🎯 Goal      →  Land a Data Science or QA Engineer role in 2026
-💼 Open to   →  Internships  •  Junior roles  •  Remote & on-site (Karachi)
+📚 Learning   →  NLP (NLTK + SpaCy)  •  Grok & OpenAI API  •  Pytest  •  GitHub Actions
+🔨 Building   →  AI Data Analyst App (FastAPI + OpenAI + Neon PostgreSQL)
+🎯 Goal       →  Land a Data Science or QA Engineer role in 2026
+💼 Open to    →  Internships  •  Junior roles  •  Remote & on-site (Karachi)
 ```
 
 ---
@@ -205,8 +211,3 @@ Visual storytelling with data using interactive charts and Power BI dashboards.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 
 </div>
-
-
-
-
-
