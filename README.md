@@ -26,7 +26,7 @@ class AimanNisar:
     name        = "Aiman Nisar"
     location    = "Karachi, Pakistan 🇵🇰"
     education   = "BS Computer Science (2023–2027)"
-    working_at  = "Target Digital Media LLC — Social Media Marketing Manager"
+    working_at  = "Oxygen Media Official — Social Media Marketing Manager"
 
     skills = {
         "Data & ML"   : ["Python", "Pandas", "NumPy", "Scikit-learn", "Random Forest",
