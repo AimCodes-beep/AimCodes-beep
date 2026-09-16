@@ -40,10 +40,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Database & Tools**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ---
 
@@ -56,6 +64,9 @@
 | 🛍️ [**Daraz_QA_project**](https://github.com/AimCodes-beep/Daraz_QA_project) | End-to-end manual QA testing suite for an e-commerce platform, with full test case & defect tracking |
 | ⚡ [**Fastapi_Code**](https://github.com/AimCodes-beep/Fastapi_Code) | Collection of FastAPI projects covering routing, middleware, background tasks & more |
 | 📊 [**ML-FASTAPI**](https://github.com/AimCodes-beep/ML-FASTAPI) | Customer segmentation using K-Means clustering, deployed as a FastAPI web app |
+| 📈 [**Data_Analytics**](https://github.com/AimCodes-beep/Data_Analytics) | Power BI dashboards (sales, employees, finance) + Pandas-based data analysis notebooks |
+| 🧪 [**Automation**](https://github.com/AimCodes-beep/Automation) | Cypress-based QA automation suite with end-to-end test cases |
+| 🗄️ [**Databases**](https://github.com/AimCodes-beep/Databases) | SQL case studies & schema design (Foodilicious case study and more) |
 
 ---
 
@@ -87,3 +98,4 @@
 ⭐️ *"Learning in public, one commit at a time."*
 
 </div>
+
